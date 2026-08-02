@@ -1,0 +1,8 @@
+{
+  "name": "IT Asset Auditor",
+  "description": "IT Asset Auditor application using Vision AI to identify and inventory hardware components.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
